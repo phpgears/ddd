@@ -1,0 +1,54 @@
+{
+  "name": "phpgears/ddd",
+  "description": "DDD building blocks",
+  "keywords": [
+    "identity",
+    "DTO",
+    "aggregate",
+    "event",
+    "value object"
+  ],
+  "type": "metapackage",
+  "homepage": "https://github.com/phpgears/ddd",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julián Gutiérrez",
+      "email": "juliangut@gmail.com",
+      "homepage": "http://juliangut.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/phpgears/ddd",
+    "issues": "https://github.com/phpgears/ddd/issues"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": "^7.1",
+    "phpgears/aggregate": "^0.2",
+    "phpgears/dto": "^0.3.1",
+    "phpgears/event": "^0.3",
+    "phpgears/identity": "^0.2.3",
+    "phpgears/value-object": "^0.2"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  },
+  "suggest": {
+    "phpgears/cqrs": "Command/Query Responsibility Segregation base",
+    "phpgears/enum": "PHP enumerables",
+    "phpgears/event-sourcing": "Event Sourcing base"
+  },
+  "autoload": {
+  },
+  "autoload-dev": {
+  },
+  "bin": [
+  ],
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true
+  }
+}
