@@ -1,9 +1,9 @@
 [![PHP version](https://img.shields.io/badge/PHP-%3E%3D7.1-8892BF.svg?style=flat-square)](http://php.net)
-[![Latest Version](https://img.shields.io/packagist/v/juliangut/ddd.svg?style=flat-square)](https://packagist.org/packages/juliangut/ddd)
-[![License](https://img.shields.io/github/license/juliangut/ddd.svg?style=flat-square)](https://github.com/juliangut/ddd/blob/master/LICENSE)
+[![Latest Version](https://img.shields.io/packagist/v/phpgears/ddd.svg?style=flat-square)](https://packagist.org/packages/phpgears/ddd)
+[![License](https://img.shields.io/github/license/phpgears/ddd.svg?style=flat-square)](https://github.com/phpgears/ddd/blob/master/LICENSE)
 
-[![Total Downloads](https://img.shields.io/packagist/dt/juliangut/ddd.svg?style=flat-square)](https://packagist.org/packages/juliangut/ddd/stats)
-[![Monthly Downloads](https://img.shields.io/packagist/dm/juliangut/ddd.svg?style=flat-square)](https://packagist.org/packages/juliangut/ddd/stats)
+[![Total Downloads](https://img.shields.io/packagist/dt/phpgears/ddd.svg?style=flat-square)](https://packagist.org/packages/phpgears/ddd/stats)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/phpgears/ddd.svg?style=flat-square)](https://packagist.org/packages/phpgears/ddd/stats)
 
 # ddd
 
@@ -55,4 +55,4 @@ Concepts and packages, related and complementing DDD, you might be interested in
 
 ## License
 
-See file [LICENSE](https://github.com/juliangut/ddd/blob/master/LICENSE) included with the source code for a copy of the license terms.
+See file [LICENSE](https://github.com/phpgears/ddd/blob/master/LICENSE) included with the source code for a copy of the license terms.
